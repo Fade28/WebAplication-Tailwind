@@ -22,3 +22,8 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Personal development files (not to be committed)
+GIT_COMMANDS.md
+git-cheatsheet.md
+personal-notes.md
